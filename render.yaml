@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: lowchat-api
+    env: python
+    buildCommand: ""
+    startCommand: "python chat.py"
+    plan: free
