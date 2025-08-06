@@ -9,11 +9,9 @@ CORS(app)  # Autorise les requêtes frontend (HTML local)
 # Charger la base FAQ au lancement
 faq_data = load_faq()
 
-@app.route('/')
-def index():
-    return "API de Chatbot FORCE-N en cours d'exécution."
 
-@app.route("/chat", methods=["POST"])
+
+@app.route("/", methods=["POST"])
 def chat():
     data = request.get_json()
     user_message = data.get("message", "").strip()
