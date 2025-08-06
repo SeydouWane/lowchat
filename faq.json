@@ -1,0 +1,675 @@
+{
+  "faq": [
+    {
+      "question": "Qu’est-ce que le programme FORCE-N ?",
+      "answer": "FORCE-N (Formations Ouvertes pour le Renforcement des Compétences, de l’Emploi et de l'Entrepreneuriat dans le Numérique) est un programme innovant mis en place par l’Université Numérique Cheikh Hamidou Kane avec l’appui de Mastercard Foundation. Il vise à transformer l'économie sénégalaise par le développement des compétences numériques, l’employabilité des jeunes et l’entrepreneuriat digital."
+    },
+  {
+    "question": "Qu'est-ce que AIPEN ?",
+    "answer": "AIPEN signifie 'Accompagnement à l’Insertion Professionnelle et à l’Entrepreneuriat Numérique'. Il s’agit d’un dispositif du programme FORCE-N qui vise à faciliter l'accès à l’emploi pour les jeunes certifiés, à travers des ateliers de rédaction de CV, du coaching, des formations à l'entrepreneuriat, ainsi qu’un accompagnement vers la création d’entreprise numérique."
+  },
+  {
+    "question": "Quels services propose AIPEN ?",
+    "answer": "AIPEN propose des services d’accompagnement à l’insertion professionnelle tels que des ateliers de CV, du coaching personnalisé, des formations en entrepreneuriat et un appui à la création d’entreprises numériques."
+  },
+  {
+    "question": "Qu'est-ce que le dispositif AMI ?",
+    "answer": "Le dispositif AMI (Agents Multiservices Indépendants) est une initiative de FORCE-N qui vise à favoriser l’auto-emploi des jeunes, en particulier des femmes, en leur permettant de représenter et vendre des produits et services dans leur localité, créant ainsi leur propre portefeuille commercial."
+  },
+  {
+    "question": "Que veut dire STEMD ?",
+    "answer": "STEMD est une composante du programme FORCE-N. Elle vise à renforcer les compétences des jeunes dans les domaines scientifiques et technologiques afin de favoriser leur employabilité dans des secteurs innovants."
+  },
+  {
+    "question": "Qu'est-ce que FORCE-N ?",
+    "answer": "FORCE-N signifie Formations Ouvertes pour le Renforcement des Compétences, de l’Emploi et de l'Entrepreneuriat dans le Numérique. C’est un programme innovant mis en place par l’Université Numérique Cheikh Hamidou Kane avec l’appui de Mastercard Foundation, visant à transformer l'économie sénégalaise par le numérique."
+  },
+  {
+    "question": "Quels sont les objectifs de FORCE-N ?",
+    "answer": "FORCE-N a pour objectif principal de développer les compétences numériques des jeunes sénégalais, de favoriser leur employabilité et de stimuler l’entrepreneuriat digital, en particulier chez les femmes et les populations éloignées du numérique."
+  },
+      {
+      "question": "C'est quoi STEMD ?",
+      "answer": "STEMD est une composante de FORCE-N qui vise à renforcer les compétences des jeunes dans les domaines scientifiques, technologiques, de l’ingénierie et des mathématiques, afin de favoriser leur insertion professionnelle et leur participation à l’économie numérique."
+    },
+    {
+      "question": "C'est quoi l'accompagnement à l'insertion ?",
+      "answer": "L’accompagnement à l’insertion consiste à aider les jeunes à intégrer le marché de l’emploi. Cela inclut des ateliers pratiques (CV, entretiens), du coaching, des formations à l’entrepreneuriat et des mises en relation avec des opportunités professionnelles ou de financement."
+    },
+    {
+      "question": "Qui peut bénéficier du programme FORCE-N ?",
+      "answer": "Le programme s’adresse aux jeunes de moins de 36 ans, qu’ils soient diplômés, non diplômés ou en reconversion professionnelle, motivés à suivre des formations numériques gratuites et à s'engager dans un parcours vers l’emploi ou l’auto-emploi. Une priorité est accordée aux jeunes femmes."
+    },
+    {
+      "question": "Quelles sont les conditions pour participer au programme d’accompagnement ?",
+      "answer": "Il faut : 1) avoir moins de 36 ans, 2) suivre ou avoir suivi une formation certifiante FCC, 3) être engagé(e) dans une démarche active d’insertion ou de création d’entreprise, 4) remplir le formulaire d’adhésion et participer aux sessions proposées. Les jeunes femmes sont prioritaires."
+    },
+    {
+      "question": "Quelles sont les familles de métiers couvertes par FORCE-N ?",
+      "answer": "FORCE-N prépare aux métiers du numérique à travers six familles : Développement logiciel, Intelligence artificielle et données, E-business, Technologies émergentes et cybersécurité, Création numérique."
+    },
+    {
+      "question": "Quels certificats sont proposés dans le domaine du développement logiciel ?",
+      "answer": "Les certificats incluent : Java, PHP, Python, Front-end, Développement mobile et No code / low code."
+    },
+    {
+      "question": "Quels certificats sont proposés dans le domaine de l’intelligence artificielle et des données ?",
+      "answer": "Les certificats incluent : IA (traitement du langage naturel, vision par ordinateur), Data analysis, Data engineering, Traitement de données (niveau 1 et 2), IA pour tous."
+    },
+    {
+      "question": "Quels certificats sont proposés dans le domaine de l’e-business ?",
+      "answer": "Les certificats incluent : Commerce digital, Marketing digital, Entrepreneuriat numérique, IA pour tous, Informatique & Internet, Téléservices."
+    },
+    {
+      "question": "Quels certificats sont proposés dans le domaine des technologies émergentes et cybersécurité ?",
+      "answer": "Les certificats incluent : Web 3, Cybersécurité, Internet des objets (IoT), Pilotage de drones."
+    },
+    {
+      "question": "Quel accompagnement est offert par FORCE-N ?",
+      "answer": "FORCE-N propose un accompagnement en 5 volets : 1) Développement des soft skills, 2) Élaboration du projet personnel et professionnel (PPP), 3) Insertion professionnelle (CV, entretiens, coaching), 4) Accompagnement à l’entrepreneuriat numérique, 5) Renforcement des compétences techniques par des formations certifiantes."
+    },
+    {
+      "question": "Comment se déroule la formation avec FORCE-N ?",
+      "answer": "Les formations combinent des cours en ligne (plateforme FODE, webinaires) et des sessions en présentiel (bootcamps, masterclass)."
+    },
+    {
+      "question": "Qu’est-ce que la composante STEMD de FORCE-N ?",
+      "answer": "La composante STEMD soutient les collèges et lycées avec des équipements informatiques, des cours numériques en sciences, et des activités comme la robotique, la programmation, l’astronomie, etc."
+    },
+    {
+      "question": "Combien de jeunes ont été formés par le programme ?",
+      "answer": "Plus de 14 525 jeunes ont acquis des compétences numériques essentielles grâce à FORCE-N."
+    },
+    {
+      "question": "Combien de jeunes ont été mis en contact pour un emploi ?",
+      "answer": "Plus de 37 697 jeunes ont été mis en relation avec des employeurs."
+    },
+    {
+      "question": "Combien de startups ont été créées grâce au programme ?",
+      "answer": "279 startups ont été créées, générant 806 emplois."
+    },
+    {
+      "question": "Le programme FORCE-N est-il fait pour moi ?",
+      "answer": "Oui, si vous avez moins de 36 ans, que vous soyez diplômé(e) ou non, que vous cherchiez à acquérir des compétences numériques, trouver un emploi ou créer une entreprise, et que vous êtes motivé(e) à suivre une formation gratuite et vous engager."
+    },
+    {
+      "question": "Quels types de contenus sont disponibles sur la plateforme FODE ?",
+      "answer": "Des cours numériques interactifs en mathématiques, sciences physiques, SVT, technologie, philosophie, anglais et numérique, destinés aux élèves des séries scientifiques."
+    },
+        {
+      "question": "Quels sont les objectifs du programme FORCE-N ?",
+      "answer": "FORCE-N vise à insérer 70 000 jeunes de moins de 36 ans d'ici 2026, dont 70 % de femmes, dans des métiers du numérique. Ses objectifs sont : accompagner l’insertion professionnelle et l’entrepreneuriat des jeunes, promouvoir la culture scientifique et numérique chez les collégiens et lycéens (notamment les filles), renforcer l’apprentissage des sciences, proposer des formations certifiantes adaptées au marché, et offrir un financement d’amorçage aux porteurs de projets."
+    },
+    {
+      "question": "Quelles sont les composantes du programme FORCE-N ?",
+      "answer": "FORCE-N repose sur trois composantes : 1) STEMD : Promotion des sciences, mathématiques et numérique dans les lycées et collèges. 2) FCC : Formations certifiantes autour de 5 grandes familles métiers du numérique. 3) AIPEN : Accompagnement à l’insertion professionnelle et à l’entrepreneuriat numérique, incluant coaching, accès à l’emploi et soutien aux porteurs de projets."
+    },
+    {
+      "question": "Que signifie FCC dans le programme FORCE-N ?",
+      "answer": "FCC signifie 'Formations et Certifications de Compétences'. C’est la composante du programme qui regroupe les formations certifiantes, structurées autour de 5 grandes familles : Développement logiciel, Intelligence artificielle et données, E-business, Technologies émergentes et cybersécurité, et Création numérique."
+    },
+    {
+      "question": "Que signifie AIPEN dans le programme FORCE-N ?",
+      "answer": "AIPEN signifie 'Accompagnement à l’Insertion Professionnelle et à l’Entrepreneuriat Numérique'. Elle vise à faciliter l'accès à l’emploi pour les jeunes certifiés, à travers des ateliers de CV, coaching, formations à l'entrepreneuriat, et accompagnement vers la création d’entreprise numérique."
+    },
+    {
+      "question": "Que signifie STEMD dans le programme FORCE-N ?",
+      "answer": "STEMD signifie Science, Technologie, Mathématiques et Numérique. Cette composante vise à promouvoir les sciences auprès des élèves, à travers une plateforme éducative, des formations, des équipements, et des activités ludiques comme la robotique, l’astronomie ou la programmation."
+    },
+    {
+      "question": "Quel est l’impact du programme FORCE-N en 2025 ?",
+      "answer": "En 2025, FORCE-N a formé 4826 jeunes à l'entrepreneuriat, mis en relation 37 697 jeunes avec des employeurs, soutenu la création de 279 startups, et touché plus de 450 000 participants dans des activités de culture scientifique."
+    },
+    {
+      "question": "Quels sont les indicateurs de réalisation du programme FORCE-N ?",
+      "answer": "Parmi les chiffres clés : 38 668 jeunes certifiés (dont 13 642 femmes), 35 certifications adaptées aux besoins du marché, 514 projets financés, 240 activités de promotion scientifique, 124 282 élèves et 32 444 étudiants participants aux activités scientifiques, et 170 846 personnes sensibilisées."
+    },
+    {
+      "question": "Qu’est-ce que le parcours Sigui ?",
+      "answer": "Sigui est le parcours d’accompagnement intégré proposé par FORCE-N. Il comprend cinq étapes : 1) Développement des soft skills, 2) Projet personnel et professionnel (PPP), 3) Insertion professionnelle, 4) Entrepreneuriat numérique, 5) Renforcement des compétences techniques par des certifications."
+    },
+    {
+      "question": "Quel est le rôle de Mastercard Foundation dans le programme FORCE-N ?",
+      "answer": "Mastercard Foundation accompagne l’Université Numérique Cheikh Hamidou Kane dans la mise en œuvre du programme FORCE-N. Elle soutient le programme dans ses objectifs de transformation de l’économie numérique et d’insertion des jeunes."
+    },
+    {
+      "question": "Pourquoi FORCE-N accorde-t-il une priorité aux femmes ?",
+      "answer": "FORCE-N vise l’inclusion et l’égalité des genres dans les métiers du numérique. Une priorité est donnée aux jeunes femmes pour réduire les inégalités d’accès aux opportunités dans le digital et promouvoir leur autonomisation par les compétences."
+    },
+    {
+      "question": "Qui sont les partenaires du programme FORCE-N ?",
+      "answer": "FORCE-N bénéficie du soutien de plusieurs partenaires institutionnels et stratégiques, qui contribuent activement à sa mise en œuvre :\n\n- Université Numérique Cheikh Hamidou Kane (porteur du programme)\n- Mastercard Foundation / Young Africa Works\n- Délégation générale à l’Entrepreneuriat Rapide (DER/FJ)\n- Plan Sénégal Émergent (PSE)\n- 3FPT (Fonds de Financement de la Formation Professionnelle et Technique)\n- ADEPME (Agence de Développement et d’Encadrement des Petites et Moyennes Entreprises)\n\nCes partenaires travaillent ensemble pour offrir des opportunités de formation, d’emploi, de financement et d’accompagnement aux jeunes bénéficiaires du programme."
+    },
+        {
+      "question": "Quel est l'accompagnement offert par FORCE-N ?",
+      "answer": "FORCE-N propose un accompagnement global et personnalisé à chaque étape du parcours du jeune bénéficiaire, structuré autour de ses trois composantes :\n\n1️⃣ **Pendant la formation (FCC)** :\n- Accès à la plateforme FODE pour apprendre à son rythme\n- Tuteurs pour l’accompagnement pédagogique\n- Ressources interactives et certificats reconnus\n\n2️⃣ **Vers l’insertion professionnelle (AIPEN)** :\n- Élaboration du projet personnel et professionnel (PPP)\n- Formation aux soft skills et techniques de recherche d’emploi\n- Ateliers CV, coaching, simulations d’entretien\n- Accès à des plateformes d’emploi, salons, forums, etc.\n\n3️⃣ **Pour les porteurs de projet** :\n- Formations en entrepreneuriat numérique\n- Coaching pour développer un business model\n- Appui technique et financement (fonds d’amorçage)\n- Intégration dans les incubateurs/FabLabs FORCE-N\n\nL’ensemble est structuré dans le parcours **Sigui**, un itinéraire en 5 étapes vers l’emploi ou l’auto-emploi."
+    },
+    {
+      "question": "Le programme FORCE-N est-il fait pour moi ?",
+      "answer": "Oui, si tu as moins de 36 ans et que :\n- Tu es jeune diplômé(e), non diplômé(e) ou en reconversion\n- Tu veux apprendre un métier du numérique ou monter en compétence\n- Tu recherches un emploi, un stage ou un accompagnement entrepreneurial\n- Tu es motivé(e) à suivre une formation en ligne gratuite\n\nFORCE-N t’offre une opportunité unique d’être formé(e), accompagné(e), et de bâtir ton avenir professionnel dans le numérique. Une attention particulière est accordée aux jeunes femmes."
+    },
+    {
+      "question": "Quelles sont les conditions requises pour participer au programme d'accompagnement ?",
+      "answer": "Pour bénéficier du programme d’accompagnement de FORCE-N (Sigui, AIPEN), il faut :\n- Être âgé(e) de moins de 36 ans\n- Avoir suivi ou être inscrit(e) à une formation certifiante FCC\n- Être disponible et engagé(e) dans une démarche d’emploi ou de création d’entreprise\n- Remplir le formulaire d’adhésion et suivre les sessions de coaching\n\nLa priorité est donnée aux jeunes femmes."
+    },
+    {
+      "question": "Quelles sont les familles de métiers prises en charge par FORCE-N ?",
+      "answer": "FORCE-N prépare aux métiers du numérique à travers 5 grandes familles de formations certifiantes :\n\n1️⃣ **Création numérique** : Conception graphique, création multimédia, vidéo, etc.\n\n2️⃣ **E-Business** : Compétences pour vendre et promouvoir en ligne : marketing digital, commerce électronique, téléservices, etc.\n\n3️⃣ **Technologies émergentes et cybersécurité** : Web3, cybersécurité, objets connectés (IoT), drones, etc.\n\n4️⃣ **Développement logiciel** : Création d'applications web, mobiles, Java, PHP, Python, front-end, no-code/low-code.\n\n5️⃣ **Intelligence artificielle et données** : Data analysis, data engineering, IA (vision par ordinateur, NLP), automatisation, etc."
+    },
+    {
+      "question": "Quelles sont les caractéristiques des formations proposées par FORCE-N ?",
+      "answer": "Les formations sont gratuites, certifiantes et accessibles en ligne sur la plateforme FODE. Plus de 35 certificats sont disponibles. Elles visent à :\n- Renforcer l'employabilité des jeunes\n- Répondre aux besoins du marché numérique\n- Améliorer la qualité de l'éducation et de la formation professionnelle\n- Produire les compétences nécessaires à la transformation digitale du Sénégal"
+    },
+    {
+      "question": "À qui s’adressent les formations de FORCE-N ?",
+      "answer": "Elles s’adressent aux jeunes de 18 à 35 ans, notamment :\n- Les non diplômés en recherche de formation\n- Les jeunes peu qualifiés professionnellement\n- Les étudiants souhaitant se spécialiser\n- Les diplômés en chômage\n- Les personnes du secteur informel\n\nAucune exclusion : les profils curieux, motivés, expérimentés ou débutants sont les bienvenus."
+    },
+    {
+      "question": "Qu’est-ce que la plateforme FODE ?",
+      "answer": "FODE est la plateforme d’apprentissage numérique de FORCE-N. Elle propose des cours certifiants, interactifs et accessibles en ligne dans les domaines suivants : mathématiques, physique, SVT, philosophie, technologie, numérique, anglais, etc. Elle vise aussi bien les apprenants que les élèves du secondaire."
+    },
+    {
+      "question": "Quels types de certificats sont proposés dans le développement logiciel ?",
+      "answer": "Les certificats disponibles sont : Java, PHP, Python, Front-End, Développement mobile, No-code / Low-code."
+    },
+    {
+      "question": "Quels types de certificats sont proposés dans l’intelligence artificielle et la data ?",
+      "answer": "Les certificats proposés incluent : IA pour tous, traitement du langage naturel (NLP), vision par ordinateur, data analysis, data engineering, traitement des données (niveaux 1 & 2)."
+    },
+    {
+      "question": "Quels types de certificats sont proposés dans le e-business ?",
+      "answer": "Les certificats en e-business regroupent : marketing digital, commerce électronique, entrepreneuriat numérique, IA pour tous, téléservices, informatique & internet."
+    },
+    {
+      "question": "Quels types de certificats sont proposés dans les technologies émergentes et cybersécurité ?",
+      "answer": "Ils incluent : cybersécurité, Web 3, Internet des Objets (IoT), pilotage de drones."
+    },
+    {
+      "question": "Quels types de certificats sont proposés dans la création numérique ?",
+      "answer": "Les contenus incluent des compétences en création graphique, montage, vidéo, multimédia, storytelling visuel, etc."
+    },
+        {
+      "question": "Qu’est-ce que la famille de formation Création numérique ?",
+      "answer": "La famille Création numérique regroupe les formations liées à la production de contenus visuels, interactifs ou multimédias. Elle permet aux jeunes d’exprimer leur créativité à travers des outils numériques modernes, tout en répondant aux besoins du marché dans les domaines de la communication digitale, du design ou de la production audiovisuelle."
+    },
+    {
+      "question": "Quels certificats sont proposés dans la famille Création numérique ?",
+      "answer": "Les certificats actuellement disponibles dans cette famille incluent :\n- Broderie numérique\n- Création de contenus avec OBS Studio\n- UX/UI Design\n- Infographie et conception visuelle"
+    },
+    {
+      "question": "Quels sont les objectifs de la formation en Broderie numérique ?",
+      "answer": "L’objectif principal est de former les apprenants à la conception et la production de motifs brodés à l’aide de logiciels et de machines numériques. Les objectifs spécifiques incluent :\n- Acquérir les bases du design textile digital\n- Utiliser un logiciel de broderie numérique\n- Comprendre le processus de numérisation et de paramétrage\n- Réaliser des motifs sur tissu avec précision"
+    },
+    {
+      "question": "Comment est structuré le programme de la formation Broderie numérique ?",
+      "answer": "Le programme est généralement structuré autour de modules comprenant :\n1. Initiation au design textile et à la broderie numérique\n2. Prise en main du logiciel de création\n3. Paramétrage des machines\n4. Réalisation de projets pratiques\n5. Évaluation par la production de pièces personnalisées"
+    },
+    {
+      "question": "Quel est le public cible pour la formation Broderie numérique ?",
+      "answer": "Cette formation est ouverte à tous les jeunes âgés de 18 à 35 ans, sans prérequis académique spécifique. Elle s’adresse particulièrement aux personnes créatives, intéressées par la mode, le textile, l’artisanat digital ou les métiers de la création."
+    },
+    {
+      "question": "Faut-il des prérequis techniques pour suivre une formation en Création numérique ?",
+      "answer": "Non, il n’y a pas de prérequis techniques majeurs. Il est simplement recommandé de disposer :\n- D’un ordinateur (PC ou Mac)\n- D’une connexion internet stable\n- D’une bonne motivation à apprendre par la pratique\nDes bases en informatique ou une sensibilité artistique peuvent constituer un atout, mais ne sont pas obligatoires."
+    },
+    {
+      "question": "Où se déroulent les formations en Création numérique ?",
+      "answer": "Les formations sont disponibles en ligne via la plateforme FODE de FORCE-N. Certaines formations peuvent proposer des ateliers en présentiel ou des bootcamps pour la mise en pratique (surtout pour les formations techniques comme la broderie numérique)."
+    },
+    {
+  "question": "Qu’est-ce que la famille de formation e-Business ?",
+  "answer": "La famille e-Business regroupe les compétences essentielles pour entreprendre, vendre et promouvoir des produits ou services en ligne. Elle est au cœur de la transformation digitale des entreprises et offre de nombreuses opportunités professionnelles."
+},
+{
+  "question": "Quels certificats sont proposés dans la famille e-Business ?",
+  "answer": "Les certificats disponibles sont :\n- Commerce digital\n- Marketing digital\n- Entrepreneuriat numérique\n- Salesforce"
+},
+{
+  "question": "Quels sont les objectifs de la formation en Commerce digital ?",
+  "answer": "Former les jeunes à la gestion d’activités de commerce en ligne, à l’utilisation d’outils numériques (gestion de caisse, e-compta, etc.), et à la transition vers le e-commerce."
+},
+{
+  "question": "Quels sont les modules de la formation Commerce digital ?",
+  "answer": "1. Bases du digital\n2. Marketing digital\n3. E-commerce\n4. Expérience client numérique\n5. e-CRM avec WhatsApp\n6. Sécurité numérique\n7. Linkedin & B2B\n8. Techniques de vente\n9. Services pour e-commerçants (optionnel)"
+},
+{
+  "question": "Quels sont les objectifs de la formation en Marketing digital ?",
+  "answer": "Développer une stratégie marketing, renforcer la visibilité en ligne, améliorer les techniques de vente, fidéliser les clients et mesurer la performance des campagnes."
+},
+{
+  "question": "Quels sont les modules de la formation Marketing digital ?",
+  "answer": "1. Fondamentaux du marketing\n2. Marketing digital\n3. Community management\n4. Canva et design\n5. E-mailing\n6. Outils divers\n7. Publicité\n8. Traçabilité"
+},
+{
+  "question": "Quels sont les objectifs de la formation en Entrepreneuriat numérique ?",
+  "answer": "Développer un projet entrepreneurial numérique : stratégie, étude de marché, business plan, fundraising, création d’entreprise et conduite de projet."
+},
+{
+  "question": "Quels sont les modules de la formation Entrepreneuriat numérique ?",
+  "answer": "1. Préparation\n2. Idéation\n3. Structuration\n4. Incubation\n5. Lancement\n6. Accélération\n7. Outils digitaux\n8. Expertise sectorielle\n9. Et après ?"
+},
+{
+  "question": "Qu’est-ce que la famille Technologies émergentes et cybersécurité ?",
+  "answer": "Cette famille forme aux outils innovants comme le Web3, la cybersécurité, l’Internet des objets (IoT), et le pilotage de drones. Elle ouvre la voie à des métiers d’avenir dans un monde numérique en constante évolution."
+},
+{
+  "question": "Quels certificats sont proposés dans cette famille ?",
+  "answer": "1. Web3\n2. Cybersécurité\n3. Internet des objets (IoT)\n4. Pilotage de drones"
+},
+{
+  "question": "Quels sont les objectifs de la formation Web3 ?",
+  "answer": "Acquérir les bases de la blockchain, des crypto-actifs, du développement d’applications décentralisées (dApps) et de l’écosystème Web3."
+},
+{
+  "question": "Quels sont les modules de la formation Web3 ?",
+  "answer": "1. Introduction au Web3\n2. Blockchain\n3. Cryptomonnaies\n4. Développement Web3\n5. Contrats intelligents\n6. dApps\n7. NFT et Métavers\n8. Sécurité"
+},
+{
+  "question": "Quels sont les objectifs de la formation Cybersécurité ?",
+  "answer": "Sécuriser les réseaux, systèmes et données dans le cloud. Diagnostiquer, prévenir et réagir aux menaces numériques."
+},
+{
+  "question": "Quels sont les prérequis pour la formation Cybersécurité ?",
+  "answer": "Bon niveau en administration réseau, systèmes, cloud ; accès à un ordinateur et connexion Internet."
+},
+{
+  "question": "Quels sont les modules de la formation Cybersécurité ?",
+  "answer": "1. Sécurité des systèmes\n2. Réseaux\n3. Cloud\n4. Cryptographie\n5. Diagnostic\n6. Sauvegarde\n7. Supervision\n8. Rédaction de rapports"
+},
+{
+  "question": "Quels sont les objectifs de la formation IoT (Internet des objets) ?",
+  "answer": "Maîtriser les systèmes embarqués, les capteurs, les protocoles de communication et la gestion de données pour concevoir des applications IoT concrètes."
+},
+{
+  "question": "Quels sont les secteurs d'application de l’IoT ?",
+  "answer": "Agriculture, santé, domotique, environnement, industrie, transport, sécurité, BTP, collectivités, etc."
+},
+{
+  "question": "Quels sont les modules de la formation IoT ?",
+  "answer": "1. Enjeux et réglementation\n2. Systèmes embarqués\n3. Protocoles IoT\n4. Stockage & visualisation\n5. Sécurité\n6. Projets réels"
+},
+{
+  "question": "Quels sont les objectifs de la formation Pilotage de drones ?",
+  "answer": "Devenir télépilote de drone, maîtriser la navigation, les règles de vol, la photogrammétrie, et intervenir dans des secteurs comme l’agriculture, la logistique ou l’aménagement."
+},
+{
+  "question": "Quels sont les modules de la formation Pilotage de drones ?",
+  "answer": "Modules théoriques : réglementation, météorologie, navigation\nModules pratiques : simulation de vol, pratique de pilotage, photogrammétrie"
+},
+ {
+    "question": "Qu’est-ce que la famille de formation Développement logiciel ?",
+    "answer": "Cette famille forme aux compétences essentielles en création d’applications et de services numériques, via des langages de programmation, des outils web/mobile, et des approches modernes comme le no code ou low code."
+  },
+  {
+    "question": "Quels certificats sont proposés dans la famille Développement logiciel ?",
+    "answer": "Les certificats disponibles sont :\n- Développement logiciel Java\n- Développement logiciel PHP\n- Développement logiciel Python\n- Front-End\n- Développement Mobile\n- No code / Low code"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation Développement mobile ?",
+    "answer": "Former aux compétences clés pour créer, déployer et maintenir des applications mobiles avec le framework Flutter. Les apprenants sauront maquetter une interface, utiliser Git, travailler en équipe et gérer un projet mobile."
+  },
+  {
+    "question": "Quels sont les modules de la formation Développement mobile ?",
+    "answer": "1. Environnement mobile\n2. UI/UX\n3. Flutter\n4. Git/GitHub\n5. Méthodologie Agile\n6. Déploiement\n7. Gestion de projet"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation No code / Low code ?",
+    "answer": "Apprendre à créer des applications ou sites web sans écrire de code complexe, en utilisant des outils comme Glide, Wordpress, Airtable, Zapier ou Make. Idéal pour prototyper et automatiser rapidement."
+  },
+  {
+    "question": "Quels sont les modules de la formation No code / Low code ?",
+    "answer": "1. Introduction au no code / low code\n2. Création avec Glide\n3. Création de site (WordPress)\n4. Automatisation (Zapier, Make)\n5. Gestion de données (Airtable)"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation Front-End ?",
+    "answer": "Maîtriser la création d’interfaces web interactives avec HTML, CSS, JavaScript/TypeScript, ainsi que des frameworks modernes comme Angular. Intégrer des maquettes, utiliser Git et travailler en mode agile."
+  },
+  {
+    "question": "Quels sont les modules de la formation Front-End ?",
+    "answer": "1. UX/UI avec Figma\n2. HTML/CSS\n3. Bootstrap\n4. JavaScript / TypeScript\n5. Angular\n6. Git/GitHub\n7. Gestion de projet avec Trello"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation Développement logiciel Python ?",
+    "answer": "Former aux compétences de développement logiciel avec Python/Django : conception, architecture, tests, déploiement, documentation, DevOps et collaboration en équipe agile."
+  },
+  {
+    "question": "Quels sont les modules de la formation Python ?",
+    "answer": "1. Algorithmique\n2. Python (base et framework)\n3. SQL/noSQL\n4. Architecture logicielle (GOF, SOA)\n5. UX/UI\n6. Angular\n7. DevOps\n8. Git, JIRA, Confluence"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation Développement logiciel PHP ?",
+    "answer": "Maîtriser le développement d’applications web avec PHP et frameworks comme Symfony, Laravel ou Drupal, ainsi que les outils de versioning, déploiement, tests et gestion agile."
+  },
+  {
+    "question": "Quels sont les modules de la formation PHP ?",
+    "answer": "1. Algorithmique\n2. PHP (base et framework)\n3. SQL/noSQL\n4. JavaScript\n5. Angular\n6. DevOps\n7. UX/UI\n8. Git, JIRA, Confluence"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation Développement logiciel Java ?",
+    "answer": "Apprendre à développer des applications Java/Java EE, implémenter des composants avec Angular, concevoir une architecture logicielle robuste, maîtriser DevOps, tests, gestion agile et collaboration."
+  },
+  {
+    "question": "Quels sont les modules de la formation Java ?",
+    "answer": "1. Algorithmique\n2. Java SE et Java EE\n3. Angular\n4. SQL/noSQL\n5. Architecture logicielle\n6. UX/UI\n7. Git, DevOps, ALM"
+  },
+    {
+    "question": "Qu’est-ce que la famille de formation Intelligence artificielle et data ?",
+    "answer": "Cette famille forme aux compétences les plus recherchées dans le numérique : traitement de données, automatisation, analyse, création de modèles prédictifs, IA générative, vision par ordinateur, etc. Elle est adaptée à tous les profils souhaitant comprendre et utiliser les outils de l’IA et de la science des données."
+  },
+  {
+    "question": "Quels certificats sont proposés dans la famille IA & Data ?",
+    "answer": "Les certificats disponibles sont :\n- Intelligence artificielle (NLP & Vision)\n- Intelligence artificielle pour tous\n- Data Analysis\n- Data Engineering\n- Traitement de données (niveaux 1 & 2)"
+  },
+
+  {
+    "question": "Quels sont les objectifs du certificat Intelligence artificielle - NLP & Vision ?",
+    "answer": "Former aux fondamentaux et techniques avancées de l’intelligence artificielle, notamment le traitement du langage naturel (NLP), la vision par ordinateur (CV), le deep learning et les outils MLOps modernes (Git, CI/CD, monitoring, etc.)."
+  },
+  {
+    "question": "Quels sont les modules de la formation IA - NLP & Vision ?",
+    "answer": "1. Introduction à l’IA\n2. Mise à niveau\n3. Prétraitement des données\n4. Machine Learning\n5. Deep Learning\n6. NLP\n7. Vision par ordinateur\n8. Déploiement et monitoring"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation Data Analysis ?",
+    "answer": "Développer des compétences pour explorer, structurer, visualiser et synthétiser les données à l’aide de bibliothèques Python. Former à la création de dashboards interactifs et à la communication des résultats d’analyse."
+  },
+  {
+    "question": "Quels sont les modules de la formation Data Analysis ?",
+    "answer": "1. Mise à niveau\n2. Bases de données\n3. Collecte des données\n4. Analyse et exploration\n5. Visualisation et dashboards"
+  },
+
+  {
+    "question": "Quels sont les objectifs de la formation Data Engineering ?",
+    "answer": "Former à la manipulation des données à grande échelle (Big Data), à l’utilisation de bases SQL/NoSQL, aux pipelines de données (ETL), au scripting (Linux, Bash), et à l’industrialisation avec Docker/Kubernetes."
+  },
+  {
+    "question": "Quels sont les modules de la formation Data Engineering ?",
+    "answer": "1. Introduction au Data Engineering\n2. Bases de données (SQL/NoSQL)\n3. Écosystème Big Data\n4. Outils et langages de traitement\n5. Déploiement & Monitoring"
+  },
+
+  {
+    "question": "Quels sont les objectifs du certificat Traitement de données (niveaux 1 & 2) ?",
+    "answer": "Permettre aux débutants et intermédiaires de maîtriser Excel pour le traitement, l’analyse et la visualisation de données, avec une montée en compétence vers VBA et l’automatisation de tâches."
+  },
+  {
+    "question": "Quelle est la différence entre les niveaux 1 et 2 de la formation Traitement de données ?",
+    "answer": "Niveau 1 : Fonctions de base Excel, formules, visualisation.\nNiveau 2 : Outils ETL dans Excel, programmation avec VBA, modélisation de données avancée."
+  },
+
+  {
+    "question": "Quels sont les objectifs du certificat Intelligence artificielle pour tous ?",
+    "answer": "Initier le grand public à l’intelligence artificielle, à travers la manipulation d’outils d’IA, la sensibilisation à l’éthique, et la découverte de cas d’usage pratiques comme le NLP, la reconnaissance vocale ou la génération d’images."
+  },
+  {
+    "question": "Quels sont les modules de la formation IA pour tous ?",
+    "answer": "1. Introduction à l’IA\n2. Manipulation de texte\n3. Reconnaissance vocale\n4. Génération d’images et de vidéos\n5. Cas pratiques\n6. Éthique et enjeux"
+  }, 
+  {
+  "question": "Comment se déroulent les formations FCC de FORCE-N ?",
+  "answer": "Les formations FCC se déroulent en format hybride : un parcours en ligne via la plateforme FODE, complété par des bootcamps en présentiel, du mentorat, et parfois des immersions en entreprise pour travailler sur des projets concrets."
+},
+{
+  "question": "Quels sont les avantages des formations FCC de FORCE-N ?",
+  "answer": "Les formations sont gratuites, professionnalisantes, conçues selon une approche par compétences (APC), et favorisent l’apprentissage collaboratif et la pratique en situation réelle. Elles permettent aussi de recevoir un certificat reconnu et d’accéder à des opportunités d’insertion professionnelle."
+},
+{
+  "question": "Y a-t-il un accompagnement pour les apprenants pendant les formations FCC ?",
+  "answer": "Oui. Chaque formation inclut un accompagnement pédagogique (tuteurs), du mentorat, des séances de coaching, et des animations pédagogiques comme des masterclass, webinaires, meetups, etc."
+},
+{
+  "question": "À qui s’adressent les formations FCC ?",
+  "answer": "Aux jeunes de 18 à 35 ans, qu’ils soient diplômés, non diplômés, en reconversion ou en recherche d’emploi. Une attention particulière est portée aux femmes, dans un souci d’inclusion dans le secteur du numérique."
+},
+{
+  "question": "Comment s’inscrire à une formation FCC ?",
+  "answer": "Il faut remplir un dossier de candidature en ligne via le site officiel de FORCE-N. Selon la formation, des tests ou entretiens peuvent être organisés pour la sélection."
+},
+{
+  "question": "Peut-on suivre plusieurs certificats ?",
+  "answer": "Oui, il est possible de candidater à plusieurs certificats, mais il est recommandé de suivre une formation à la fois pour maximiser ses chances de réussite et d’insertion."
+},
+{
+  "question": "Quel matériel est nécessaire pour suivre une formation FCC ?",
+  "answer": "Un ordinateur (minimum Core i3, 8Go de RAM) et une connexion internet stable sont requis. Certains certificats peuvent nécessiter des configurations plus spécifiques."
+},
+{
+  "question": "Dois-je avoir des connaissances préalables pour postuler à une formation FCC ?",
+  "answer": "Certaines formations comme le développement Java, Python ou Data Engineering exigent des bases en algorithmique ou programmation. D’autres, comme le no-code ou le traitement de données niveau 1, sont accessibles aux débutants avec une maîtrise de base de l’outil informatique."
+ },  
+{
+  "question": "Est-ce que les formations sont reconnues par les employeurs ?",
+  "answer": "Oui, les certificats délivrés par FORCE-N sont conçus en lien avec les besoins du marché sénégalais et mondial, et sont reconnus par les partenaires publics et privés du programme."
+ },  {
+  "question": "Quels débouchés après une formation en développement logiciel ?",
+  "answer": "Les certificats préparent aux métiers de développeur front-end, développeur mobile, développeur back-end (Java, Python, PHP), intégrateur web, testeur QA, etc."
+},
+{
+  "question": "Quels débouchés après une formation en Data ou IA ?",
+  "answer": "Les certificats mènent vers les métiers d’analyste de données, data engineer, data scientist, développeur IA, spécialiste MLOps, ou encore responsable de dashboards décisionnels."
+},
+{
+  "question": "Quels débouchés après la formation No code / Low code ?",
+  "answer": "Cette formation permet de devenir créateur d'applications, automatiser des processus en entreprise, ou travailler comme freelance dans la conception d'outils métiers sans coder."
+}, {
+  "question": "Je n’ai aucune connaissance en informatique. Puis-je quand même suivre une formation ?",
+  "answer": "Oui, plusieurs formations comme le traitement de données (niveau 1), IA pour tous ou le no-code sont pensées pour les débutants. L’important est d’être motivé et prêt à s’engager activement dans la formation."
+},
+{
+  "question": "Je suis une femme. Y a-t-il un accompagnement spécifique ?",
+  "answer": "Oui. FORCE-N accorde une priorité aux jeunes femmes dans son processus de sélection. Le programme encourage l’accès équitable des femmes aux métiers du numérique à travers des dispositifs dédiés comme Recrut’elles."
+},
+{
+  "question": "Puis-je suivre la formation en dehors du Sénégal ?",
+  "answer": "Oui, si vous avez accès à Internet. Les formations sont principalement en ligne et peuvent être suivies à distance. Toutefois, la participation aux bootcamps ou immersions en entreprise peut nécessiter une présence physique au Sénégal."
+},
+{
+  "question": "Qu'est-ce que le parcours SIGUI dans le programme FORCE-N ?",
+  "answer": "Le parcours SIGUI est un itinéraire structuré en 5 étapes destiné à accompagner les jeunes dans leur insertion professionnelle ou entrepreneuriale. Inspiré d’un rituel dogon du Mali, il symbolise la transmission de savoir et l’épanouissement. Il va de la découverte de soi à l’intégration dans le monde du travail."
+},
+{
+  "question": "Quelles sont les étapes du parcours SIGUI ?",
+  "answer": "Le parcours SIGUI comprend 5 étapes : 1) Élaboration du projet personnel et professionnel (PPP), 2) Renforcement de l’employabilité, 3) Recherche active d’emploi, 4) Insertion professionnelle, et 5) Éventuellement, entrepreneuriat ou auto-emploi."
+}, 
+{
+  "question": "Comment FORCE-N m'aide à construire mon projet personnel et professionnel (PPP) ?",
+  "answer": "FORCE-N propose un accompagnement complet : exploration de ta personnalité, bilan de compétences, découverte des métiers du numérique via des ressources en ligne et visites d'entreprises, rédaction de ton PPP, mentorat et coaching."
+},
+{
+  "question": "Y a-t-il un accompagnement pour rédiger mon projet personnel et professionnel ?",
+  "answer": "Oui. Une formation dédiée t’apprend à rédiger ton PPP, accompagnée de séances de validation et de mise en œuvre, avec le soutien de mentors et coachs professionnels."
+},
+{
+  "question": "Comment FORCE-N m'aide à renforcer mon employabilité ?",
+  "answer": "FORCE-N t’aide à développer des compétences techniques (via des certificats FCC), à te former aux soft skills (leadership, anglais, communication), à préparer ton dossier de candidature, et à te constituer un réseau professionnel."
+},
+{
+  "question": "Puis-je être préparé à l’entretien d’embauche avec FORCE-N ?",
+  "answer": "Oui. Des sessions d’initiation et de simulation d’entretien sont prévues pour t’aider à te présenter de manière professionnelle et convaincante face aux recruteurs."
+},
+{
+  "question": "Comment FORCE-N m'aide à chercher un emploi ?",
+  "answer": "FORCE-N t’aide à t’inscrire sur des plateformes d’emploi (comme WUTIKO), à participer à des salons, et à découvrir les dispositifs d’aide mis en place par l’État, tels que les offres de la Fonction publique ou les conventions avec des employeurs privés."
+},
+{
+  "question": "Puis-je bénéficier d’une aide pour postuler sur les plateformes d’emploi ?",
+  "answer": "Oui. Tu seras guidé pour créer un profil professionnel efficace sur des plateformes comme WUTIKO, les sites nationaux et les réseaux sociaux."
+},
+{
+  "question": "Comment réussir mon intégration dans le monde du travail avec FORCE-N ?",
+  "answer": "FORCE-N t’aide à négocier ton contrat, comprendre tes droits et devoirs, adopter une éthique professionnelle, et construire un parcours durable à travers le développement de ton expertise et de ton réseau professionnel."
+},
+{
+  "question": "Le programme m'aide-t-il à négocier mon contrat de travail ?",
+  "answer": "Oui. Tu seras formé à la négociation du salaire, à la compréhension des différents types de contrats, et à l’adaptation à ton nouvel environnement de travail."
+}
+,
+{
+  "question": "Quel est l’impact du programme FORCE-N en 2025 ?",
+  "answer": "En 2025, FORCE-N a déjà formé plus de 4 800 jeunes à l’entrepreneuriat, mis en contact 37 697 jeunes avec des employeurs, contribué à la création de 279 startups, et touché 450 000 participants via la culture scientifique."
+},
+{
+  "question": "Qu’est-ce que le programme Recrut’Elles de FORCE-N ?",
+  "answer": "Recrut’Elles est un instrument d’aide à l’insertion professionnelle des jeunes femmes diplômées. Il vise à faciliter leur accès à l’emploi tout en accompagnant les entreprises dans le recrutement de talents qualifiés et formés aux compétences numériques."
+},
+{
+  "question": "Comment fonctionne la subvention dans Recrut’Elles ?",
+  "answer": "FORCE-N prend en charge jusqu’à 50 % de l’indemnité de stage ou d’emploi, plafonnée à 100 000 FCFA par mois et par bénéficiaire, pendant un maximum de six mois. Le remboursement s’effectue sur présentation de pièces justificatives à chaque fin de période convenue."
+},
+{
+  "question": "Quels sont les avantages pour les entreprises partenaires de Recrut’Elles ?",
+  "answer": "Les entreprises bénéficient d’un recrutement facilité, de talents pré-sélectionnés, formés aux normes internationales, d’un accompagnement administratif, et d’une reconnaissance pour leur engagement social en faveur de l’égalité et de l’inclusion."
+},
+{
+  "question": "Quelles sont les conditions pour qu’une entreprise participe à Recrut’Elles ?",
+  "answer": "L’entreprise doit être légalement constituée au Sénégal, avoir des besoins clairement identifiés, et disposer d’un encadreur. L’adhésion nécessite une demande formelle, des pièces administratives, et une validation par l’équipe FORCE-N."
+}
+,
+{
+  "question": "C’est quoi le programme AMI dans FORCE-N ?",
+  "answer": "Le dispositif AMI (Agents Multiservices Indépendants) vise à favoriser l’auto-emploi des jeunes, en particulier des femmes, en leur permettant de représenter et vendre des produits et services dans leur localité. Il leur permet de créer leur propre portefeuille commercial."
+},
+{
+  "question": "Quels sont les avantages pour les jeunes dans le programme AMI ?",
+  "answer": "Les jeunes bénéficient d’une formation pratique, d’un accompagnement, et d’une indemnité mensuelle de 25 000 FCFA pendant trois mois, renouvelable une fois. Ils développent des compétences en vente, marketing et gestion commerciale."
+},
+{
+  "question": "Quel est le rôle des partenaires dans le programme AMI ?",
+  "answer": "Les partenaires élargissent leur réseau commercial, accèdent à de nouveaux marchés, notamment ruraux, et renforcent leur impact social en collaborant avec des jeunes motivés, formés et encadrés par FORCE-N."
+},
+{
+  "question": "Le programme AMI est-il réservé aux femmes ?",
+  "answer": "Non, mais une attention particulière est accordée aux jeunes femmes, avec un quota de 70 % dans la sélection afin de promouvoir l’inclusion et l’autonomisation féminine."
+},
+{
+  "question": "Qu'est-ce que Recrut'Elles dans le programme FORCE-N ?",
+  "answer": "Recrut’Elles est un dispositif de FORCE-N visant à faciliter l’insertion professionnelle des jeunes diplômées. Il soutient les entreprises dans le recrutement de talents féminins qualifiés en prenant en charge 50% de l’indemnité de stage ou d’emploi, jusqu’à 100 000 FCFA/mois, pendant 6 mois."
+},
+{
+  "question": "Quels avantages offre Recrut’Elles aux entreprises partenaires ?",
+  "answer": "Les entreprises bénéficient d’une subvention pour les salaires, d’un accompagnement administratif, de talents présélectionnés et formés aux normes internationales, ainsi qu’une reconnaissance pour leur engagement en faveur de l’employabilité des femmes."
+},
+{
+  "question": "Quelles sont les conditions pour qu’une entreprise bénéficie de Recrut’Elles ?",
+  "answer": "L’entreprise doit être légalement constituée au Sénégal, avoir un encadreur disponible, et formuler clairement ses besoins. Une demande formelle et des justificatifs administratifs sont requis pour l’adhésion."
+},
+{
+  "question": "Comment fonctionne le remboursement de la subvention Recrut’Elles ?",
+  "answer": "Le remboursement s’effectue sur présentation des pièces justificatives, à la fin de chaque période convenue (ex : fin de mois ou trimestre)."
+},
+{
+  "question": "En quoi consiste le dispositif AMI de FORCE-N ?",
+  "answer": "Le programme AMI (Agents Multiservices Indépendants) vise à favoriser l’auto-emploi des jeunes, notamment des femmes, en leur permettant de vendre des produits et services dans leur localité pour le compte de partenaires du programme."
+},
+{
+  "question": "Quel est l’objectif du programme AMI ?",
+  "answer": "L’objectif est de créer un portefeuille commercial pour les jeunes, de leur générer des revenus et de développer leurs compétences en vente, marketing et gestion d’affaires, tout en renforçant l’accès des partenaires à de nouveaux marchés, y compris en zones rurales."
+},
+{
+  "question": "Quelles sont les conditions pour devenir AMI ?",
+  "answer": "Aucune condition formelle contraignante. Les jeunes intéressés sont formés par FORCE-N avant d’être déployés, avec une priorité donnée aux femmes (quota de 70%)."
+},
+{
+  "question": "Les AMI sont-ils rémunérés ?",
+  "answer": "Oui. Les jeunes agents reçoivent une indemnité mensuelle de 25 000 FCFA pendant trois mois, renouvelable une fois, ainsi qu’une formation pratique avant leur déploiement sur le terrain."
+}
+,
+{
+  "question": "FORCE-N accompagne-t-il les jeunes porteurs de projet entrepreneurial ?",
+  "answer": "Oui. FORCE-N propose un dispositif structuré en trois phases : pré-incubation, financement via le fonds d’amorçage, puis incubation/pré-accélération. Chaque phase est conçue pour soutenir les jeunes à différentes étapes de leur parcours entrepreneurial."
+},
+{
+  "question": "En quoi consiste la phase de pré-incubation de FORCE-N ?",
+  "answer": "La pré-incubation dure 3 mois et permet de structurer, affiner et valider l’idée de projet. Elle prépare le porteur de projet à la mise en œuvre concrète de son initiative entrepreneuriale."
+},
+{
+  "question": "Qu’est-ce que le fonds d’amorçage de FORCE-N ?",
+  "answer": "Le fonds d’amorçage est un dispositif financier permettant de soutenir le lancement de projets innovants. Il peut être attribué après la phase de pré-incubation ou suite à un appel à candidatures pour des jeunes porteurs de projets prometteurs."
+},
+{
+  "question": "Quels types de projets peuvent bénéficier du fonds d’amorçage ?",
+  "answer": "Des projets innovants portés par de jeunes entrepreneurs, en particulier dans le numérique. Une sélection rigoureuse est faite sur la base du potentiel, de la pertinence et de la viabilité du projet."
+},
+{
+  "question": "Qu’est-ce que la phase d’incubation et de pré-accélération dans FORCE-N ?",
+  "answer": "Elle dure 9 mois et s’adresse aux projets les plus prometteurs. Elle comprend un accompagnement intensif, un accès à des espaces de travail (FabLabs, D-HUBs), un mentorat personnalisé et des opportunités de mise en réseau pour assurer la croissance et la pérennité des startups."
+},
+{
+  "question": "Quels sont les avantages des FabLabs et des D-HUBs pour les jeunes entrepreneurs ?",
+  "answer": "Ils offrent un environnement favorable au développement de projets : espaces de coworking, soutien technique et administratif, événements de réseautage, accès à des experts, et intégration dans un écosystème entrepreneurial dynamique au niveau local et international."
+},
+{
+  "question": "Comment rejoindre le programme d’incubation de FORCE-N ?",
+  "answer": "L’accès peut se faire via la pré-incubation suivie d’un financement, ou en réponse à des appels à candidatures. Les candidats sélectionnés intègrent ensuite un parcours encadré dans des structures partenaires comme les FabLabs ou D-HUBs."
+}
+,
+{
+  "question": "Qu’est-ce que la composante STEMD de FORCE-N ?",
+  "answer": "La composante STEMD signifie Sciences, Technologies, Mathématiques et Numérique. Elle vise à développer la culture scientifique chez les collégiens et lycéens en leur donnant le goût des sciences à travers des cours, animations et événements."
+},
+{
+  "question": "À qui s’adresse la composante STEMD ?",
+  "answer": "STEMD cible principalement les élèves du collège et du lycée, en particulier ceux des séries scientifiques S1 et S3. Elle prépare ces jeunes à s'intéresser aux parcours techniques comme ceux proposés dans les composantes FCC et AIPEN."
+},
+{
+  "question": "Quels types d’activités sont proposés par STEMD ?",
+  "answer": "STEMD propose des animations en robotique, impression 3D, réalité virtuelle, astronomie, Scratch, ainsi que des conférences scientifiques et des compétitions dans les lycées, collèges et ENO. Elle organise aussi des ateliers thématiques sur les sciences émergentes."
+},
+{
+  "question": "Les élèves bénéficient-ils de matériel dans le cadre de STEMD ?",
+  "answer": "Oui. Les élèves de première et terminale S1 et S3, appelés 'ambassadeurs STEM', reçoivent un ordinateur portable, une clé de connexion Internet, et bénéficient d’une formation en Linux et Python."
+},
+{
+  "question": "Existe-t-il une plateforme en ligne pour STEMD ?",
+  "answer": "Oui. STEMD dispose d’une plateforme gratuite contenant 30 cours de référence en sciences fondamentales et numérique, adaptée aux élèves S1 et S3. Les contenus sont accessibles même sans connexion Internet."
+},
+{
+  "question": "Quel est l’objectif de sensibilisation de STEMD ?",
+  "answer": "STEMD ambitionne d’initier 400 000 collégiens et lycéens aux sciences et de sensibiliser 85 000 d’entre eux. Elle prévoit l’organisation de 185 activités scientifiques et numériques sur le territoire."
+},
+{
+  "question": "Où se déroule la finale des compétitions STEMD ?",
+  "answer": "La finale des compétitions scientifiques organisées par STEMD se déroule à la Semaine Nationale de la Science et du Numérique (SNSN), bien que l’édition 2024 n’ait pas pu avoir lieu."
+}
+,
+{
+  "question": "FORCE-N organise-t-il des événements pour ses bénéficiaires ?",
+  "answer": "Oui, FORCE-N organise régulièrement des événements tels que des forums, bootcamps, expositions, masterclass et compétitions scientifiques pour renforcer les compétences des jeunes, valoriser les métiers du numérique et stimuler l’innovation."
+},
+{
+  "question": "Qu’est-ce que le Forum des Métiers et de l’Entrepreneuriat de FORCE-N ?",
+  "answer": "C’est un événement organisé par FORCE-N pour connecter les jeunes aux professionnels, découvrir des opportunités dans les secteurs du numérique et de l’entrepreneuriat, et promouvoir les formations certifiantes du programme."
+},
+{
+  "question": "Qu’est-ce que JIPEN 2025 ?",
+  "answer": "JIPEN est la Journée de l’Insertion Professionnelle et de l’Entrepreneuriat Numérique. En 2025, elle a mobilisé 350 jeunes à Saint-Louis autour de l’employabilité, de l’innovation et de la création de projets numériques."
+},
+{
+  "question": "Quels sont les événements en lien avec les sciences ?",
+  "answer": "FORCE-N, via STEMD, organise des expositions comme celle avec TERANGA MATH au Musée des Civilisations Noires, des animations scientifiques dans les ENO, des semaines scientifiques dans les régions, et participe à des forums économiques axés sur la technologie et l’innovation."
+},
+{
+  "question": "Quelle est la portée des partenariats comme celui entre l’UN-CHK et la DER/FJ ?",
+  "answer": "Ces conventions visent à renforcer la formation des jeunes aux compétences numériques et à faciliter leur insertion dans des projets entrepreneuriaux et innovants, à travers l’accompagnement de structures comme la DER/FJ."
+},
+{
+  "question": "Quel est l’objectif du bootcamp leadership de FORCE-N ?",
+  "answer": "Le bootcamp a pour but de renforcer les capacités de leadership, de communication et d’impact des alumnis de FORCE-N, afin qu’ils deviennent des ambassadeurs actifs du numérique dans leurs communautés."
+},
+{
+  "question": "Qu’est-ce que le dispositif AMI lancé au Forum FOREME ?",
+  "answer": "C’est un dispositif d’auto-emploi pour les jeunes, notamment les femmes, lancé par FORCE-N à travers la composante AIPEN. Il permet aux jeunes de devenir des Agents Multiservices Indépendants (AMI) et de représenter des produits ou services localement."
+},
+{
+  "question": "FORCE-N a-t-il un réseau d’alumni ?",
+  "answer": "Oui. Un réseau d’alumni dynamique existe, avec des événements comme la journée d’intégration 2024 et des masterclass pour renforcer leur positionnement professionnel, leur réseau et leur visibilité."
+}
+
+  ]
+}
