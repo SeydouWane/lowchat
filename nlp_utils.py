@@ -8,7 +8,7 @@ def load_faq():
     """Charge le fichier JSON et retourne la liste des questions-réponses"""
     with open("faq.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-        return data["faq"]  # <--- Important : accéder à la clé "faq"
+        return data["faq"]  
 
 
 def find_best_answer(user_question, faq_data, threshold=0.3):
